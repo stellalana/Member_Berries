@@ -1,3 +1,5 @@
+# Deployed Link: https://stellalana.github.io/Member_Berries/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
