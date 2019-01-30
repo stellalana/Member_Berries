@@ -1,0 +1,16 @@
+
+.gameMessage {
+    font-size: 1.5em;
+}
+
+.black {
+    color: ivory;
+}
+
+.correct {
+    color: LAWNGREEN;
+}
+
+.incorrect {
+    color: ivory;
+}

@@ -1,0 +1,13 @@
+.jumbo {
+    margin-top: 80px; 
+}
+
+.jumbotron {
+    box-shadow: 0 2px 5px 0 rgb(22,31,42);
+    color: rgb(251,242,247)
+}
+
+.instructions {
+    text-align: center;
+    font-size: 2em;
+}
