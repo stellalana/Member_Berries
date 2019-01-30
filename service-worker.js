@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/stellalana/Member_Berries.git/precache-manifest.e50b7bef11153c8707acc3f20c9d9ae3.js"
+  "/Member_Berries/precache-manifest.2db708c6c98146c79c22b3f857ae4ead.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/stellalana/Member_Berries.git/index.html", {
+workbox.routing.registerNavigationRoute("/Member_Berries/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

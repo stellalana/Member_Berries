@@ -1,15 +1,15 @@
 {
-  "main.css": "/stellalana/Member_Berries.git/static/css/main.ecba9854.chunk.css",
-  "main.js": "/stellalana/Member_Berries.git/static/js/main.4348f031.chunk.js",
-  "main.js.map": "/stellalana/Member_Berries.git/static/js/main.4348f031.chunk.js.map",
-  "static/css/1.b063bfbd.chunk.css": "/stellalana/Member_Berries.git/static/css/1.b063bfbd.chunk.css",
-  "static/js/1.d6dd692f.chunk.js": "/stellalana/Member_Berries.git/static/js/1.d6dd692f.chunk.js",
-  "static/js/1.d6dd692f.chunk.js.map": "/stellalana/Member_Berries.git/static/js/1.d6dd692f.chunk.js.map",
-  "runtime~main.js": "/stellalana/Member_Berries.git/static/js/runtime~main.633b9600.js",
-  "runtime~main.js.map": "/stellalana/Member_Berries.git/static/js/runtime~main.633b9600.js.map",
-  "static/css/1.b063bfbd.chunk.css.map": "/stellalana/Member_Berries.git/static/css/1.b063bfbd.chunk.css.map",
-  "static/css/main.ecba9854.chunk.css.map": "/stellalana/Member_Berries.git/static/css/main.ecba9854.chunk.css.map",
-  "index.html": "/stellalana/Member_Berries.git/index.html",
-  "precache-manifest.e50b7bef11153c8707acc3f20c9d9ae3.js": "/stellalana/Member_Berries.git/precache-manifest.e50b7bef11153c8707acc3f20c9d9ae3.js",
-  "service-worker.js": "/stellalana/Member_Berries.git/service-worker.js"
+  "main.css": "/Member_Berries/static/css/main.ecba9854.chunk.css",
+  "main.js": "/Member_Berries/static/js/main.a5183c43.chunk.js",
+  "main.js.map": "/Member_Berries/static/js/main.a5183c43.chunk.js.map",
+  "static/css/1.b063bfbd.chunk.css": "/Member_Berries/static/css/1.b063bfbd.chunk.css",
+  "static/js/1.d6dd692f.chunk.js": "/Member_Berries/static/js/1.d6dd692f.chunk.js",
+  "static/js/1.d6dd692f.chunk.js.map": "/Member_Berries/static/js/1.d6dd692f.chunk.js.map",
+  "runtime~main.js": "/Member_Berries/static/js/runtime~main.7f2ddd43.js",
+  "runtime~main.js.map": "/Member_Berries/static/js/runtime~main.7f2ddd43.js.map",
+  "static/css/1.b063bfbd.chunk.css.map": "/Member_Berries/static/css/1.b063bfbd.chunk.css.map",
+  "static/css/main.ecba9854.chunk.css.map": "/Member_Berries/static/css/main.ecba9854.chunk.css.map",
+  "index.html": "/Member_Berries/index.html",
+  "precache-manifest.2db708c6c98146c79c22b3f857ae4ead.js": "/Member_Berries/precache-manifest.2db708c6c98146c79c22b3f857ae4ead.js",
+  "service-worker.js": "/Member_Berries/service-worker.js"
 }
